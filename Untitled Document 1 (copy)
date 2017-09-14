@@ -1,0 +1,13 @@
+hello guys today i will show you how to make a GitHub repo and upload too many files into the repo so lets get start
+open your browser and type github
+as i have already mady  my account so you must first mak your account and then see the next step 
+cick on the make a repository   after that  you have to add gitignore and license and click on create repository  and then click on upload files and then select the files 
+for uploading many files just select the files and then drag then to the site and BANG you are done
+///.......
+
+
+
+now the next step how to fetch data from someones other repo ..
+you have to do is search for their repo and after that copy the url and oprn the terminal and type git clone and paste the link and you are done .....
+please like the video ..if it help you and gave suggestions in the comment section also and suggest new topics on which i can make my further video.....
+thanks for watching ..HAPPY CODING/.....# Avi..
